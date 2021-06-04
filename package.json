@@ -1,0 +1,24 @@
+{
+  "name": "true_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "create-react-app": "^4.0.3",
+    "dayjs": "^1.10.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
